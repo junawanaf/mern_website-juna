@@ -1,3 +1,5 @@
+mern_website-juna
+
 client -> frontend (react.js, express.js)
 server -> backend (mongodb, nodejs)
 
@@ -6,13 +8,7 @@ server -> backend (mongodb, nodejs)
 npm start
 
 
---------------- server run ---------------
-node server
+--------------- client run ---------------
+npm start
 
-
-apabila port digunakan? silahkan delete/kill port menggunakan teknik berikut:
-https://stackoverflow.com/questions/39632667/how-do-i-kill-the-process-currently-using-a-port-on-localhost-in-windows
-
-
-============================================================== HEROKU HOSTING =========================================================
-https://www.youtube.com/watch?v=71wSzpLyW9k
+NOTE : in server.js replace <password> to your mongodb atlas database password 
