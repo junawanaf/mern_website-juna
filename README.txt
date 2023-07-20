@@ -11,4 +11,5 @@ node server
 --------------- client run ---------------
 npm start
 
+
 NOTE : in server.js replace <password> to your mongodb atlas database password 
