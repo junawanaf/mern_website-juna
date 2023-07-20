@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82c85fb8.chunk.css",
+    "main.js": "/static/js/main.074d4a17.chunk.js",
+    "main.js.map": "/static/js/main.074d4a17.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.79d5d169.js",
+    "runtime-main.js.map": "/static/js/runtime-main.79d5d169.js.map",
+    "static/js/2.bc0bd6e5.chunk.js": "/static/js/2.bc0bd6e5.chunk.js",
+    "static/js/2.bc0bd6e5.chunk.js.map": "/static/js/2.bc0bd6e5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.82c85fb8.chunk.css.map": "/static/css/main.82c85fb8.chunk.css.map",
+    "static/js/2.bc0bd6e5.chunk.js.LICENSE.txt": "/static/js/2.bc0bd6e5.chunk.js.LICENSE.txt",
+    "static/media/dendengbalado.f1b5722f.png": "/static/media/dendengbalado.f1b5722f.png",
+    "static/media/estehmanis.29305b5b.png": "/static/media/estehmanis.29305b5b.png",
+    "static/media/orektempe.33116684.png": "/static/media/orektempe.33116684.png",
+    "static/media/sayurlodeh.9e634860.png": "/static/media/sayurlodeh.9e634860.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79d5d169.js",
+    "static/js/2.bc0bd6e5.chunk.js",
+    "static/css/main.82c85fb8.chunk.css",
+    "static/js/main.074d4a17.chunk.js"
+  ]
+}
